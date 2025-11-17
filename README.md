@@ -1,1 +1,1 @@
-# odin-recipes
+A basic recipe website, with a main page that has links to a few recipe pages
